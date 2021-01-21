@@ -1,1 +1,1 @@
-install.packages=c("tidyverse", "afex", "emmeans")
+install.packages(c("tidyverse", "afex", "emmeans"))
